@@ -1,6 +1,6 @@
 /*
  * File: 13-is_palindrome.c
- * Author:Brendamasingu
+ * Author: Brendamasingu
  */
 
 #include "lists.h"
